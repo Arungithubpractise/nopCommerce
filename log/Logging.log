@@ -1,0 +1,99 @@
+2022-12-22 23:54:00,454  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:00,535  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:00,753  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:00,810  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:00,839  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:00,929  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:03,369  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:03,384  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:03,475  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:03,975  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:03,990  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:04,085  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:08,788  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:08,814  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:08,815  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:16,433  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:16,439  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:17,617  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:17,624  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:17,749  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:17,755  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:18,414  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:19,123  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:19,204  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:19,264  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:19,803  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:19,865  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:23,770  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:23,772  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:23,877  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:37,026  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:37,029  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:37,748  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:37,751  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:37,894  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:37,899  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:39,155  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:39,353  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:39,689  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:39,889  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:39,999  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:40,186  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:42,829  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:42,890  stepDefinitions.steps *** click on logout  link**** 
+2022-12-22 23:54:43,068  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:43,107  stepDefinitions.steps *** click on logout  link**** 
+2022-12-22 23:54:43,793  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:43,827  stepDefinitions.steps *** click on logout  link**** 
+2022-12-22 23:54:44,445  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:44,633  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:45,148  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:46,566  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:46,571  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:46,774  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:46,778  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:47,278  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:47,281  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:47,866  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:48,606  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:48,683  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:48,785  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:49,294  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:49,374  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:52,404  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:52,436  stepDefinitions.steps *** click on logout  link**** 
+2022-12-22 23:54:53,022  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:53,057  stepDefinitions.steps *** click on logout  link**** 
+2022-12-22 23:54:53,846  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:54,385  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:54,481  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:54,522  stepDefinitions.steps *** click on logout  link**** 
+2022-12-22 23:54:55,952  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:55,959  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:56,018  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:56,620  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:56,625  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:57,858  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:58,131  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:54:58,137  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:54:58,367  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:58,561  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:58,843  stepDefinitions.steps ***started login **** 
+2022-12-22 23:54:59,046  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:59,394  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:54:59,443  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:54:59,908  stepDefinitions.steps ***started login **** 
+2022-12-22 23:55:00,323  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:55:00,329  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:55:00,574  stepDefinitions.steps *** login  failed**** 
+2022-12-22 23:55:00,932  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:55:00,937  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:55:01,934  stepDefinitions.steps ***launcing  browser**** 
+2022-12-22 23:55:01,942  stepDefinitions.steps ***opening  url**** 
+2022-12-22 23:55:02,513  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:55:02,683  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:55:03,336  stepDefinitions.steps ***providing login  details**** 
+2022-12-22 23:55:03,557  stepDefinitions.steps ***started login **** 
+2022-12-22 23:55:03,573  stepDefinitions.steps ***started login **** 
+2022-12-22 23:55:04,000  stepDefinitions.steps ***started login **** 
